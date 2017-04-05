@@ -14,12 +14,11 @@ A curated list of awesome Cucumber and Gherkin-related resources
 
 ## Resources
 
-## Videos
-
 ### Documentation
 
 - [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
         
+## Videos
 
 
 # Contributing
