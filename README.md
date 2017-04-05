@@ -2,13 +2,19 @@
 A curated list of awesome Cucumber and Gherkin-related resources
 [<img src="https://cucumber.io/images/cucumber-logo.svg" align="right" width="200">](https://cucumber.io/)
 
-*To contribute, please ensure that you follow the [contribution](#contributing) guidelines.*
+*To contribute, please ensure that you follow the [contribution guidelines](#contributing).*
 
 ## Contents
+- [Articles & Posts](#articles--posts)
 - [Resources](#resources)
 	- [Documentation](#documentation)
+- [Videos](#videos)
+	
+## Articles & Posts
 
 ## Resources
+
+## Videos
 
 ### Documentation
 
