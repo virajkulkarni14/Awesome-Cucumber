@@ -14,7 +14,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 ## Articles & Posts
 
 ## Resources
-
+- [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM
 ### Documentation
 
 - [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
