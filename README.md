@@ -8,7 +8,6 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [Articles & Posts](#articles--posts)
 - [Resources](#resources)
 	- [Documentation](#documentation)
-	- [Projects using Cucumber](#projects-using-cucumber)
 - [Videos](#videos)
 	
 ## Articles & Posts
@@ -18,12 +17,6 @@ A curated list of awesome Cucumber and Gherkin-related resources
 ### Documentation
 
 - [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
-
-### Projects using Cucumber
-
-See how other teams and projects use Cucumber for their needs.
-
-- [GitLab](https://github.com/gitlabhq/gitlabhq) - The platform for modern developers
         
 ## Videos
 
