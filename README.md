@@ -6,17 +6,17 @@ A curated list of awesome Cucumber and Gherkin-related resources
 
 ## Contents
 - [Contents](#contents)
-- [Articles & Posts](#articles--posts)
+- [Articles & Posts](#articles--resources)
 - [Tools, Libraries & Frameworks](#tools-libraries--frameworks)
-- [Resources](#resources)
 - [Case Studies and Projects using Cucumber](#case-studies-and-projects-using-cucumber)
 - [Videos](#videos)
 - [Contributing](#contributing)
   - [License](#license)
 
-## Articles & Posts
+## Articles & Resources
 - [BDD in DevOps: An Example of BDD in Continuous Integration | Whiteboard Friday](https://www.qasymphony.com/blog/bdd-devops-example-bdd-continuous-integration/)
 - [Be Da Developer, Cucumber on Android](https://proandroiddev.com/be-da-developer-cucumber-on-android-cfd07773e59d)
+- [Cucumber.io - Official Documentation for Cucumber](https://cucumber.io/docs)
 - [Cucumber BDD (Part 1): Starting with Feature Mapping](https://medium.com/agile-vision/starting-with-bdd-for-collaborative-development-in-agile-environments-5fb034078b3c)
 - [E2E Testing with Protractor , Cucumber using TypeScript!](https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a)
 - [End-to-end testing Single Page Apps and Node.js APIs with Cucumber.js and Puppeteer](https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0)
@@ -26,9 +26,6 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [CukeLinter](https://github.com/enkessler/cuke_linter) - This gem provides linting functionality for Feature files.
 - [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM.
 - [ReportBuilder](https://github.com/rajatthareja/ReportBuilder) - Ruby gem to merge Cucumber JSON reports and build mobile-friendly HTML Test Report, JSON report and retry file.
-
-## Resources
-- [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
 
 ## Case Studies and Projects using Cucumber
 
