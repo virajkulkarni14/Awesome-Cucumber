@@ -13,6 +13,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 
 ## Articles & Posts
 - [Be Da Developer, Cucumber on Android](https://proandroiddev.com/be-da-developer-cucumber-on-android-cfd07773e59d)
+- [E2E Testing with Protractor , Cucumber using TypeScript!](https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a)
 - [End-to-end testing Single Page Apps and Node.js APIs with Cucumber.js and Puppeteer](https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0)
 
 ## Tools, Libraries & Frameworks
