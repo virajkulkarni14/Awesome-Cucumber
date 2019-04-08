@@ -15,6 +15,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [End-to-end testing Single Page Apps and Node.js APIs with Cucumber.js and Puppeteer](https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0)
 
 ## Tools, Libraries & Frameworks
+- [Cucumber.js](https://github.com/cucumber/cucumber-js) - Cucumber.js is the JavaScript implementation of Cucumber and runs on the maintained Node.js versions and modern web browsers.
 - [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM
 - [ReportBuilder](https://github.com/rajatthareja/ReportBuilder) - Ruby gem to merge Cucumber JSON reports and build mobile-friendly HTML Test Report, JSON report and retry file.
 
