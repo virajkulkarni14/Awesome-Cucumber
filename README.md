@@ -12,6 +12,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [Videos](#videos)
 
 ## Articles & Posts
+- [End-to-end testing Single Page Apps and Node.js APIs with Cucumber.js and Puppeteer](https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0)
 
 ## Tools, Libraries & Frameworks
 - [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM
