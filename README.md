@@ -5,11 +5,14 @@ A curated list of awesome Cucumber and Gherkin-related resources
 *To contribute, please ensure that you follow the [contribution guidelines](#contributing).*
 
 ## Contents
+- [Contents](#contents)
 - [Articles & Posts](#articles--posts)
 - [Tools, Libraries & Frameworks](#tools-libraries--frameworks)
 - [Resources](#resources)
-- [Projects using Cucumber](#projects-using-cucumber)
+- [Case Studies and Projects using Cucumber](#case-studies-and-projects-using-cucumber)
 - [Videos](#videos)
+- [Contributing](#contributing)
+  - [License](#license)
 
 ## Articles & Posts
 - [Be Da Developer, Cucumber on Android](https://proandroiddev.com/be-da-developer-cucumber-on-android-cfd07773e59d)
@@ -24,7 +27,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 ## Resources
 - [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
 
-## Projects using Cucumber
+## Case Studies and Projects using Cucumber
 
 See how other teams and projects use Cucumber for their needs.
 
