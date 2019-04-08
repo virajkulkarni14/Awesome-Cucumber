@@ -14,7 +14,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 ## Articles & Posts
 
 ## Tools, Libraries & Frameworks
-- [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM
+- [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM.
 
 ## Resources
 - [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
@@ -23,7 +23,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 
 See how other teams and projects use Cucumber for their needs.
 
-- [GitLab](https://github.com/gitlabhq/gitlabhq) - The platform for modern developers
+- [GitLab](https://github.com/gitlabhq/gitlabhq) - The platform for modern developers.
 
 ## Videos
 
