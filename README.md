@@ -5,11 +5,14 @@ A curated list of awesome Cucumber and Gherkin-related resources
 *To contribute, please ensure that you follow the [contribution guidelines](#contributing).*
 
 ## Contents
+- [Contents](#contents)
 - [Articles & Posts](#articles--posts)
 - [Tools, Libraries & Frameworks](#tools-libraries--frameworks)
 - [Resources](#resources)
-- [Projects using Cucumber](#projects-using-cucumber)
+- [Case Studies and Projects using Cucumber](#case-studies-and-projects-using-cucumber)
 - [Videos](#videos)
+- [Contributing](#contributing)
+  - [License](#license)
 
 ## Articles & Posts
 - [End-to-end testing Single Page Apps and Node.js APIs with Cucumber.js and Puppeteer](https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0)
@@ -22,7 +25,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 ## Resources
 - [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
 
-## Projects using Cucumber
+## Case Studies and Projects using Cucumber
 
 See how other teams and projects use Cucumber for their needs.
 
