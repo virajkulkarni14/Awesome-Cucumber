@@ -15,6 +15,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 
 ## Tools, Libraries & Frameworks
 - [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM
+- [ReportBuilder](https://github.com/rajatthareja/ReportBuilder) - Ruby gem to merge Cucumber JSON reports and build mobile-friendly HTML Test Report, JSON report and retry file.
 
 ## Resources
 - [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
