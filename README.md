@@ -6,25 +6,25 @@ A curated list of awesome Cucumber and Gherkin-related resources
 
 ## Contents
 - [Articles & Posts](#articles--posts)
+- [Tools, Libraries & Frameworks](#tools-libraries--frameworks)
 - [Resources](#resources)
-	- [Documentation](#documentation)
-	- [Projects using Cucumber](#projects-using-cucumber)
+- [Projects using Cucumber](#projects-using-cucumber)
 - [Videos](#videos)
-	
+
 ## Articles & Posts
 
-## Resources
+## Tools, Libraries & Frameworks
 - [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM
-### Documentation
 
+## Resources
 - [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
 
-### Projects using Cucumber
+## Projects using Cucumber
 
 See how other teams and projects use Cucumber for their needs.
 
 - [GitLab](https://github.com/gitlabhq/gitlabhq) - The platform for modern developers
-        
+
 ## Videos
 
 
