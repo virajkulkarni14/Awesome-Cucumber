@@ -6,15 +6,18 @@ A curated list of awesome Cucumber and Gherkin-related resources
 
 ## Contents
 
-- [Contents](#contents)
-- [Articles & Posts](#articles--resources)
+- [Articles, Tutorials & Posts](#articles-tutorials--resources)
 - [Tools, Libraries & Frameworks](#tools-libraries--frameworks)
-- [Case Studies and Projects using Cucumber](#case-studies-and-projects-using-cucumber)
+- [Case Studies & Projects using Cucumber](#case-studies--projects-using-cucumber)
 - [Videos](#videos)
+- [Alternatives](#alternatives)
 - [Contributing](#contributing)
-  - [License](#license)
+- [License](#license)
 
-## Articles & Resources
+## Articles, Tutorials & Resources
+
+Blog posts and articles about using Cucumber with other tools.
+
 - [BDD in DevOps: An Example of BDD in Continuous Integration | Whiteboard Friday](https://www.qasymphony.com/blog/bdd-devops-example-bdd-continuous-integration/)
 - [Be Da Developer, Cucumber on Android](https://proandroiddev.com/be-da-developer-cucumber-on-android-cfd07773e59d)
 - [Cucumber.io - Official Documentation for Cucumber](https://cucumber.io/docs)
@@ -23,12 +26,15 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [End-to-end testing Single Page Apps and Node.js APIs with Cucumber.js and Puppeteer](https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0)
 
 ## Tools, Libraries & Frameworks
+
+These were built on top of Cucumber and provide a BDD ecosystem.
+
 - [Cucumber.js](https://github.com/cucumber/cucumber-js) - Cucumber.js is the JavaScript implementation of Cucumber and runs on the maintained Node.js versions and modern web browsers.
 - [CukeLinter](https://github.com/enkessler/cuke_linter) - This gem provides linting functionality for Feature files.
 - [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM.
 - [ReportBuilder](https://github.com/rajatthareja/ReportBuilder) - Ruby gem to merge Cucumber JSON reports and build mobile-friendly HTML Test Report, JSON report and retry file.
 
-## Case Studies and Projects using Cucumber
+## Case Studies & Projects using Cucumber
 
 See how other teams and projects use Cucumber for their needs.
 
@@ -36,9 +42,17 @@ See how other teams and projects use Cucumber for their needs.
 - [Whitepapers: Successful Project with Behavior-Driven Development](https://www.belatrixsf.com/whitepapers/project-behavior-driven-development/)
 
 ## Videos
+
+Talks, sessions, webinars about Cucumber.
+
 - [An Introduction to Behavior-Driven Development (BDD) with Cucumber for Java](https://www.youtube.com/watch?v=MCaXumfckmQ)
 
-# Contributing
+## Alternatives
+
+Some alternatives to Cucumber.
+
+
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
