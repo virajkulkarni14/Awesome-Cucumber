@@ -5,6 +5,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 *To contribute, please ensure that you follow the [contribution guidelines](#contributing).*
 
 ## Contents
+
 - [Contents](#contents)
 - [Articles & Posts](#articles--resources)
 - [Tools, Libraries & Frameworks](#tools-libraries--frameworks)
@@ -32,7 +33,6 @@ A curated list of awesome Cucumber and Gherkin-related resources
 See how other teams and projects use Cucumber for their needs.
 
 - [Behaviour Driven Development - Case study in Nordea](https://prezi.com/ke8eiqlb_1x9/behaviour-driven-development-case-study-in-nordea/)
-- [GitLab](https://github.com/gitlabhq/gitlabhq)
 - [Whitepapers: Successful Project with Behavior-Driven Development](https://www.belatrixsf.com/whitepapers/project-behavior-driven-development/)
 
 ## Videos
