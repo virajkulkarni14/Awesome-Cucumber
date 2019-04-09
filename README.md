@@ -9,7 +9,8 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [Contents](#contents)
 - [Articles & Posts](#articles--resources)
 - [Tools, Libraries & Frameworks](#tools-libraries--frameworks)
-- [Case Studies and Projects using Cucumber](#case-studies-and-projects-using-cucumber)
+- [Case Studies](#case-studies)
+- [Videos](#videos)
 - [Contributing](#contributing)
   - [License](#license)
 
@@ -20,7 +21,6 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [Cucumber BDD (Part 1): Starting with Feature Mapping](https://medium.com/agile-vision/starting-with-bdd-for-collaborative-development-in-agile-environments-5fb034078b3c)
 - [E2E Testing with Protractor , Cucumber using TypeScript!](https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a)
 - [End-to-end testing Single Page Apps and Node.js APIs with Cucumber.js and Puppeteer](https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0)
-- [Cucumber.io](https://cucumber.io/docs) - Official Documentation for Cucumber.
 
 ## Tools, Libraries & Frameworks
 - [Cucumber.js](https://github.com/cucumber/cucumber-js) - Cucumber.js is the JavaScript implementation of Cucumber and runs on the maintained Node.js versions and modern web browsers.
