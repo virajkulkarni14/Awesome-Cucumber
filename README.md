@@ -55,7 +55,7 @@ Some alternatives to Cucumber.
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Please read the *Awesome Cucumber* [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
