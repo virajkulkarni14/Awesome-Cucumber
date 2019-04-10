@@ -11,6 +11,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [Case Studies & Projects using Cucumber](#case-studies--projects-using-cucumber)
 - [Videos](#videos)
 - [Alternatives](#alternatives)
+- [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -52,6 +53,10 @@ Talks, sessions, webinars about Cucumber.
 Some alternatives to Cucumber.
 
 - [Spinach](https://github.com/codegram/spinach) - BDD framework on top of Gherkin.
+
+## Related Awesome Lists
+
+Other Awesome Lists related to the domain of testing or testing tools.
 
 ## Contributing
 
