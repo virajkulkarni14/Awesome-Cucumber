@@ -13,6 +13,7 @@ A curated list of awesome Cucumber and Gherkin-related resources
 - [Alternatives](#alternatives)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
 ## Articles, Tutorials & Resources
@@ -61,6 +62,14 @@ Other Awesome Lists related to the domain of testing or testing tools.
 ## Contributing
 
 Contributions welcome! Please read the *Awesome Cucumber* [contribution guidelines](CONTRIBUTING.md) first.
+
+## Code of Conduct
+See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+>In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## License
 
