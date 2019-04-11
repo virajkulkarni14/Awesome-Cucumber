@@ -59,6 +59,11 @@ Some alternatives to Cucumber.
 
 Other Awesome Lists related to the domain of testing or testing tools.
 
+- [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing software, extensions and resources.
+- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources.
+
 ## Contributing
 
 Contributions welcome! Please read the *Awesome Cucumber* [contribution guidelines](CONTRIBUTING.md) first.
