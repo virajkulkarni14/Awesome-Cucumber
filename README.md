@@ -38,7 +38,7 @@ These were built on top of Cucumber and provide a BDD ecosystem.
 - [HTML reports for Cucumber](https://github.com/damianszczepanik/cucumber-reporting) - This is a Java report publisher primarily created to publish cucumber reports on the Jenkins build server. It publishes pretty html reports with charts showing the results of cucumber runs.
 - [Karate](https://github.com/intuit/karate) - Web services testing framework based on Cucumber-JVM.
 - [ReportBuilder](https://github.com/rajatthareja/ReportBuilder) - Ruby gem to merge Cucumber JSON reports and build mobile-friendly HTML Test Report, JSON report and retry file.
-- [RestQA](https://github.com/restqa/restqa) - All in on API test automation framework with a great developer experience. Based on Cucumber.
+- [RestQA](https://github.com/restqa/restqa) - All-in-one API test automation framework with a great developer experience. Based on Cucumber.
 
 ## Case Studies & Projects using Cucumber
 
